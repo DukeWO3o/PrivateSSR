@@ -6,7 +6,7 @@
 [bypass_all]
 
 [proxy_list]
-
+googleapis.cn
 85.17.73.31
 91.108.56.0/22
 91.108.4.0/22
@@ -834,7 +834,7 @@ blogspot\.com
 ^([^/]+\.)*google\.(sh|si|sk|sm|sn|so|sr|st|td|tg)$
 ^([^/]+\.)*google\.(tk|tl|tm|tn|to|tt|us|vg|vn|vu)$
 ^([^/]+\.)*google\.(ws)$
-(^|\.)googleapis\.cn
+(^|\.)googleapis\.cn$
 (^|\.)googleapis\.com
 (^|\.)googleapps\.com
 (^|\.)googleartproject\.com
